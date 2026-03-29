@@ -123,12 +123,12 @@ Full-stack student record system with Trie, HashMap, and BST implemented from sc
 
 ---
 
-### 🌸 [AniSphere](https://anisphere-ai-anime-recommender.vercel.app) — AI Anime Recommender
+### 🌸 [AniSphere](https://ani-sphere-ai-anime-recommender.vercel.app) — AI Anime Recommender
 > React · Vite · Node.js · Google Gemini · Jikan/MAL API · Vercel
 
 Personalized AI anime recommendations with a dark rose-quartz themed interface.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-a855f7?style=for-the-badge)](https://anisphere-ai-anime-recommender.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-a855f7?style=for-the-badge)](https://ani-sphere-ai-anime-recommender.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github)](https://github.com/Hibha-2004/AniSphere-AI-Anime-Recommender)
 
 ---
