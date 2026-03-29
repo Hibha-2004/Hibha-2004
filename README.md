@@ -70,7 +70,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -137,9 +136,10 @@ Personalized AI anime recommendations with a dark rose-quartz themed interface.
 
 <div align="center">
 
-![Hibha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hibha-2004&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c4b5fd&icon_color=a78bfa&text_color=e2e0f0&rank_icon=github)
+![Hibha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hibha-2004&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c4b5fd&icon_color=a78bfa&text_color=e2e0f0&rank_icon=github&cache_seconds=1800&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hibha-2004&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c4b5fd&text_color=e2e0f0&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hibha-2004&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c4b5fd&text_color=e2e0f0&langs_count=8&cache_seconds=1800)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hibha-2004&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=7c3aed&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=7b6aaa)](https://git.io/streak-stats)
 
