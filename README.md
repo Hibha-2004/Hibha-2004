@@ -136,10 +136,9 @@ Personalized AI anime recommendations with a dark rose-quartz themed interface.
 
 <div align="center">
 
-![Hibha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hibha-2004&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c4b5fd&icon_color=a78bfa&text_color=e2e0f0&rank_icon=github&cache_seconds=1800&include_all_commits=true&count_private=true)
+![Hibha's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hibha-2004&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c4b5fd&icon_color=a78bfa&text_color=e2e0f0&rank_icon=github&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hibha-2004&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c4b5fd&text_color=e2e0f0&langs_count=8&cache_seconds=1800)
-
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hibha-2004&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c4b5fd&text_color=e2e0f0&langs_count=8)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hibha-2004&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=7c3aed&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=7b6aaa)](https://git.io/streak-stats)
 
