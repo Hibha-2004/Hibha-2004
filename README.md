@@ -6,16 +6,6 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Hibha-2004&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Hibha-2004)
-&nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/Hibha-2004?style=for-the-badge&color=7c3aed&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/Hibha-2004?tab=followers)
-&nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/Hibha-2004?style=for-the-badge&color=a78bfa&labelColor=0d0d0d&label=STARS)](https://github.com/Hibha-2004)
-
-</div>
-
-<div align="center">
-
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech_CSE-2022–2026-7c3aed?style=flat-square&labelColor=0d0d0d)
 &nbsp;
 ![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-a78bfa?style=flat-square&labelColor=0d0d0d)
